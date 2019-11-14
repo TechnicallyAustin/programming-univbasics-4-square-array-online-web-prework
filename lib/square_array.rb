@@ -1,4 +1,5 @@
 def square_array(numbers)
+  
   new_numbers = [1,2,3]
   while counter < numbers.length do
     numbers[counter] * numbers[counter]

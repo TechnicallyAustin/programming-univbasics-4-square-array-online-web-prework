@@ -3,7 +3,7 @@ def square_array(numbers)
   numbers = [1,2,3]
   new_numbers = [0] 
   while counter < numbers.length do
-    new_numbers.push(numbers[counter]  * new_numbers[counter])
+    numbers[counter] ** 2 
     # new_numbers.push(numbers[counter])
     #This will add my numbers onto the existing numbers
     counter = counter + 1 

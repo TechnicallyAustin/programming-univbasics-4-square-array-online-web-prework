@@ -1,5 +1,5 @@
 def square_array(numbers)
-  counter = 1
+  counter = counter + 1 
   numbers = [1,2,3]
   new_numbers = [0] 
   while counter < numbers.length do
